@@ -1,9 +1,0 @@
-.vo{
-    background-color: aliceblue;
-    position: static;
-    display: flex;
-}
-.letf{
-    display: block;
-    width: calc(100px - 50%);
-}
