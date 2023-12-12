@@ -2,5 +2,10 @@
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
+<<<<<<< HEAD
 This repository is built step by step in the tutorial.
 good to be back learning
+=======
+i love mimi. so much
+This repository is built step by step in the tutorial
+>>>>>>> f697a85f7b26f07bdfafcc6aee3bfaa775457f58
